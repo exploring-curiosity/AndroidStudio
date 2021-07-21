@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MC Lab</string>
+    <string-array name="marital">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Widow</item>
+        <item>Spinster</item>
+    </string-array>
+</resources>
