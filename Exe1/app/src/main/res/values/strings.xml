@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EX1</string>
+    <string name="app_name">Exe1</string>
     <string-array name="marital">
         <item>Single</item>
         <item>Married</item>

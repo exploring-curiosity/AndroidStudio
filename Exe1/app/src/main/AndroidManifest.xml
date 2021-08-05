@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ex1">
+    package="com.example.exe1">
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.EX1">
+        android:theme="@style/Theme.Exe1">
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,8 +19,9 @@
         <activity android:name=".disp">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.ex1.disp"/>
+                android:value="com.example.exe1.disp"/>
         </activity>
+
     </application>
 
 </manifest>
